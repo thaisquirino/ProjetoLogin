@@ -1,0 +1,6 @@
+ Eu preciso criar um compoment 
+
+
+ ng  g c login
+ ng g c logado
+ ng g c error
